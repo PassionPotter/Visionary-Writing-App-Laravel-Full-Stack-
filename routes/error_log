@@ -1,0 +1,16 @@
+[11-Oct-2019 02:17:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/visionar2/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/visionar2/public_html/routes/api.php on line 16
+[11-Oct-2019 04:19:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/visionar2/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/visionar2/public_html/routes/console.php on line 16
+[11-Oct-2019 21:07:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/visionar2/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/visionar2/public_html/routes/channels.php on line 14
+[12-Oct-2019 02:30:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/visionar2/public_html/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/visionar2/public_html/routes/web.php on line 17

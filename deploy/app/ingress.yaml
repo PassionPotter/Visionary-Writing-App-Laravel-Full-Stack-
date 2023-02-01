@@ -1,0 +1,19 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+    kubernetes.io/ingress.class: nginx
+  name: lara
+spec:
+  rules:
+  - host: test1.id3m.net
+    http:
+      paths:
+      - backend:
+          serviceName: laravel-api
+          servicePort: 80
+  tls:
+  - hosts:
+    - test1.id3m.net
+    secretName: test1

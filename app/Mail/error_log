@@ -1,0 +1,2 @@
+[05-Oct-2019 16:03:29 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/visionar2/public_html/app/Mail/sendAccountActivation.php on line 10
+[11-Oct-2019 01:30:16 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/visionar2/public_html/app/Mail/EmailVerification.php on line 10

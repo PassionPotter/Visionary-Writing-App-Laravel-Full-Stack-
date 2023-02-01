@@ -1,0 +1,6 @@
+[10-Oct-2019 21:09:11 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/visionar2/public_html/app/Providers/viewComposer.php on line 9
+[11-Oct-2019 12:37:54 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/visionar2/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[11-Oct-2019 12:43:16 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/visionar2/public_html/app/Providers/EventServiceProvider.php on line 8
+[11-Oct-2019 12:50:08 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/visionar2/public_html/app/Providers/AuthServiceProvider.php on line 9
+[11-Oct-2019 12:53:15 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/visionar2/public_html/app/Providers/RouteServiceProvider.php on line 8
+[11-Oct-2019 12:54:21 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/visionar2/public_html/app/Providers/AppServiceProvider.php on line 8

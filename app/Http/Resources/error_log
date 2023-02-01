@@ -1,0 +1,4 @@
+[10-Oct-2019 12:57:08 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/visionar2/public_html/app/Http/Resources/AuthorResource.php on line 8
+[11-Oct-2019 05:17:27 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/visionar2/public_html/app/Http/Resources/UserResource.php on line 8
+[11-Oct-2019 05:17:31 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/visionar2/public_html/app/Http/Resources/ChapterResource.php on line 7
+[11-Oct-2019 22:06:18 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/visionar2/public_html/app/Http/Resources/AuthorBookChaptersResource.php on line 7

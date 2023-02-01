@@ -1,0 +1,1 @@
+[05-Oct-2019 16:04:16 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/visionar2/public_html/app/Console/Kernel.php on line 8

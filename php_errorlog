@@ -1,0 +1,34 @@
+[02-Sep-2020 06:46:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class hash does not exist in /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('hash')
+#1 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('hash')
+#2 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('hash', Array)
+#3 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(734): Illuminate\Container\Container->make('hash', Array)
+#4 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(1210): Illuminate\Foundation\Application->make('hash')
+#5 /hom in /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 767
+[02-Sep-2020 06:46:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class hash does not exist in /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('hash')
+#1 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('hash')
+#2 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('hash', Array)
+#3 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(734): Illuminate\Container\Container->make('hash', Array)
+#4 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(1210): Illuminate\Foundation\Application->make('hash')
+#5 /hom in /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 767
+[02-Sep-2020 06:46:36 UTC] PHP Fatal error:  Uncaught ReflectionException: Class hash does not exist in /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('hash')
+#1 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('hash')
+#2 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('hash', Array)
+#3 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(734): Illuminate\Container\Container->make('hash', Array)
+#4 /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php(1210): Illuminate\Foundation\Application->make('hash')
+#5 /hom in /home/siddhiin/public_html/visionarywritings/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 767
+[11-Sep-2020 11:18:45 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130
+[11-Sep-2020 12:41:59 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130
+[11-Sep-2020 12:54:44 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130
+[11-Sep-2020 12:55:02 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 131
+[11-Sep-2020 12:55:52 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130
+[11-Sep-2020 12:58:08 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130
+[11-Sep-2020 13:24:26 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130
+[11-Sep-2020 14:24:10 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130
+[11-Sep-2020 14:24:49 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130
+[11-Sep-2020 15:03:48 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=127) state=0 in /home/siddhiin/public_html/visionarywritings/app/Http/Controllers/Auth/HomeController.php on line 130

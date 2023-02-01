@@ -1,0 +1,4 @@
+[15-Mar-2021 07:02:49 UTC] PHP Fatal error:  Cannot redeclare UserController::create_chapter() in /home/a1pro/public_html/visionarywritings/application/controllers/webServices/UserController.php on line 490
+[15-Mar-2021 07:54:16 UTC] PHP Fatal error:  Cannot redeclare UserController::get_book() in /home/a1pro/public_html/visionarywritings/application/controllers/webServices/UserController.php on line 563
+[16-Mar-2021 06:32:11 UTC] PHP Fatal error:  Cannot redeclare UserController::reader_register() in /home/a1pro/public_html/visionarywritings/application/controllers/webServices/UserController.php on line 1058
+[16-Mar-2021 08:05:43 UTC] PHP Fatal error:  Cannot redeclare UserController::get_author_list() in /home/a1pro/public_html/visionarywritings/application/controllers/webServices/UserController.php on line 1123

@@ -1,0 +1,12 @@
+[30-Jul-2018 11:15:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host '162.241.189.100' is not allowed to connect to this MySQL server in /home/visionar/public_html/bulkemail/config.php on line 2
+[30-Jul-2018 11:15:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host '162.241.189.100' is not allowed to connect to this MySQL server in /home/visionar/public_html/bulkemail/config.php on line 2
+[30-Jul-2018 11:15:36 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/visionar/public_html/bulkemail/send_mail.php on line 227
+[30-Jul-2018 11:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/visionar/public_html/bulkemail/send_mail.php:229
+Stack trace:
+#0 {main}
+  thrown in /home/visionar/public_html/bulkemail/send_mail.php on line 229
+[30-Jul-2018 11:20:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host '162.241.189.100' is not allowed to connect to this MySQL server in /home/visionar/public_html/bulkemail/config.php on line 2
+[30-Jul-2018 11:20:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host '162.241.189.100' is not allowed to connect to this MySQL server in /home/visionar/public_html/bulkemail/config.php on line 2
+[26-Aug-2019 12:54:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'visionar_writer'@'localhost' (using password: YES) in /home/visionar2/public_html/bulkemail/config.php on line 3
+[26-Aug-2019 12:55:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'visionar_writer'@'localhost' (using password: YES) in /home/visionar2/public_html/bulkemail/config.php on line 3
+[26-Aug-2019 12:55:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'visionar_writer'@'localhost' (using password: YES) in /home/visionar2/public_html/bulkemail/config.php on line 3

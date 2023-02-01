@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^k8s\.visionarywritings\.com$
+RewriteRule ^/?$ "https\:\/\/visionarywritings\.site\/" [R=301,L]
+

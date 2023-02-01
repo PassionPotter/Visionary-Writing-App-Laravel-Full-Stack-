@@ -1,0 +1,126 @@
+/***********************************************
+* Global
+***********************************************/
+
+a,
+a:hover,
+a:focus {
+    color: #03a9f4;
+    font-size: 14px;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1040px;
+    }
+}
+
+.form-group {
+    margin: 0;
+}
+
+.label {
+    font-size: 12px;
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-weight: 400;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+}
+
+/***********************************************
+* Sidebar
+***********************************************/
+
+.sidebar-module:first-child {
+    margin-top: 0;
+}
+
+.sidebar-module {
+    margin: 30px auto;
+}
+
+.sidebar-module h4 {
+    margin-bottom: 22px;
+}
+
+.sidebar-module-inset p:last-child,
+.sidebar-module-inset ul:last-child,
+.sidebar-module-inset ol:last-child {
+    margin-bottom: 0;
+}
+
+.sidebar-module .categories li {
+    margin: 12px auto;
+}
+
+/***********************************************
+* Posts
+***********************************************/
+
+.blog-post {
+    margin-bottom: 30px;
+}
+.blog-post .center-block { height:250px !important;}
+.blog-post a {
+    text-decoration: none;
+}
+
+.blog-comments-title,
+.blog-post-title {
+    margin-bottom: 5px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #333;
+}
+
+.blog-post-meta {
+    padding: 16px 22px;
+    color: #999;
+    display: block;
+    border-bottom: 1px solid #EDEDED;
+}
+
+.blog-post-date {
+    margin: 6px auto;
+}
+
+.blog-post-share {
+    margin: 10px auto;
+}
+
+.blog-post-content {
+    padding: 16px 22px;
+}
+
+.blog-post-content p {
+    color: #999;
+    margin: 18px auto;
+}
+
+.blog-post-content .btn {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.blog-post p {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.blog-post .panel-body {
+    padding: 0;
+}
+
+
+.blog-comments .panel,
+.blog-post .panel {
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.blog-comments:hover .panel,
+.blog-post:hover .panel {
+    -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}

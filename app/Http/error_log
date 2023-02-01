@@ -1,0 +1,1 @@
+[11-Oct-2019 01:04:15 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/visionar2/public_html/app/Http/Kernel.php on line 7

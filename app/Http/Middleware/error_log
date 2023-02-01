@@ -1,0 +1,3 @@
+[10-Oct-2019 20:57:11 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/visionar2/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[11-Oct-2019 15:14:12 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/visionar2/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[11-Oct-2019 20:38:38 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/visionar2/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
